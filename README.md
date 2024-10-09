@@ -1,1 +1,2 @@
-# ADMMD
+# Autoimmune Diseases Microbiome and Metabolomics Database
+ADMMD（Autoimmune Diseases Microbiome and Metabolomics Database）通过整合不同自身免疫性疾病亚型的微生物组和代谢组学数据，收录36个项目和14个表型的4918个样本，提供用户可以直接下载的预处理数据，帮助研究人员更加轻松、高效地开展相关组学研究。
